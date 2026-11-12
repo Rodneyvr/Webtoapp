@@ -1,0 +1,6 @@
+{
+  "name": "WebToApp",
+  "description": "An on-device APK workshop and runtime studio that builds signed Android APKs & Google Play AABs from web projects, local server runtimes (Node.js, PHP, Python, Go, WordPress), anti-censorship stacks, and MV3 extension modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
